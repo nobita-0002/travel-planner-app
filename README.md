@@ -1,3 +1,3 @@
 # Travel Planner App
 
-This is a travel planning application.
+A comprehensive travel planning application that helps users organize their trips, find attractions, and discover local restaurants.
